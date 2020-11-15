@@ -1,7 +1,7 @@
 # affinity_propagation
 laboratory work №3
 
-алгоритма кластеризации Affinity propagation пользователей соц.сети Gowalla на основании графа дружб.
+алгоритм кластеризации Affinity propagation пользователей соц.сети Gowalla на основании графа дружб.
 
 Датасет: https://snap.stanford.edu/data/loc-Gowalla.html
 
